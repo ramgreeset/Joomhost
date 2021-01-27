@@ -1,0 +1,7 @@
+$(function(){
+
+
+    $('.rewiews-slider').slick({});
+          
+
+});
